@@ -1,2 +1,2 @@
-# jstamzian
-Jstamz website
+# Jstamzian
+Jstamz archive
